@@ -2,7 +2,7 @@ import zipfile
 import os
 
 # Create directory structure
-os.makedirs('haiye-website/css', exist_ok=True)
+os.makedirs('haeee-website/css', exist_ok=True)
 os.makedirs('haiye-website/images', exist_ok=True)
 os.makedirs('haiye-website/js', exist_ok=True)
 
